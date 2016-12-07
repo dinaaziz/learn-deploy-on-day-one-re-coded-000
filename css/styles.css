@@ -466,3 +466,10 @@ a:visited {
 .clearfix:after {
     clear: both;
 }
+#dina-cover {
+  background-image: url("../assets/img/dina-cover.jpg");
+}
+
+#dina-card {
+  background-image: url("../assets/img/dina.gif");
+}
